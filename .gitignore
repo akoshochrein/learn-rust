@@ -4,3 +4,7 @@ hello
 hello_exp
 format
 sum_of_primes
+
+target/
+
+*.lock

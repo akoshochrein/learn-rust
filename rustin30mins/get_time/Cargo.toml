@@ -1,0 +1,10 @@
+#![feature(rand, collections)]
+
+[package]
+name = "get_time"
+version = "0.0.1"
+authors = ["akoskaaa <akos.hochrein@prezi.com>"]
+
+
+[dependencies.time]
+git = "https://github.com/rust-lang/time"
