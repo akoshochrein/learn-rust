@@ -1,0 +1,9 @@
+[package]
+
+name = "json_test"
+version = "0.0.1"
+authors = ["akoskaaa <akos.hochrein@prezi.com>"]
+
+
+[dependencies]
+rustc-serialize = "0.2"
